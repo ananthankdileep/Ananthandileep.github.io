@@ -1,0 +1,232 @@
+/* Author : Sebastian */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    
+    font-family: 'Cinzel', serif;
+color: blue;
+}
+.vh-50{
+    height: 50vh;
+}
+.banner{
+    background-color: #D7D7D7;
+}
+.hi{
+    font-family: 'Cinzel', serif;
+}
+.name{
+    font-family: 'Cinzel', serif;
+
+}
+.front{
+    font-family: 'DM Serif Display', serif;
+    font-size: large;
+    
+}
+.rounded-circle-container{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border-radius:50%;
+    border: 1px solid #ccc;
+}
+.second-page{
+    background-image: url(../images/markus-winkler-7iSEHWsxPLw-unsplash.jpg);
+    height:35vh;
+    font-family:'Cinzel', serif ;
+    margin-top: 2px;
+    
+    
+
+}
+.firstbanner{
+    background-color:rgba(0,0,0,0.20);
+}
+.about-para {
+    color: black;
+    font-family: 'DM Serif Display', serif;
+    font-size:large;
+    padding: 10px;
+    
+
+}
+.skillpage{
+    background-image: url(../images/banner.jpg);    
+    height:50vh;
+    font-family:'Cinzel', serif ;
+    background-color:rgba(0,0,0,0.45);
+    color: aliceblue;margin-top: 2px;
+
+    
+}
+.academy{
+    font-family:'Cinzel', serif ;
+    border: solid 2px black;
+    background-color: black;
+
+}
+
+.timeline{
+  
+    background:rgba(0,0,0,0.50)url(../images/markus-winkler-7iSEHWsxPLw-unsplash.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    color: white;
+    text-align: center;
+
+
+    
+}
+.checkpoint{
+    background-image: url(../images/brandi-redd-aJTiW00qqtI-unsplash.jpg);
+    background-size: cover;
+    border: solid 2px black;
+    width: 30%;
+    margin: 5px;
+    align-items: center;
+    border-radius: 10px;
+    padding: 1px;
+    font-family: 'Cinzel', serif;
+    margin: 5em auto;
+    max-width: 34.15em;
+    border-left: 3px solid black;
+    font-size: small;
+    color: black;
+    
+
+}
+
+
+
+.h2{
+    font-size: small;
+}
+.h1{
+    font-family:'Cinzel', serif ;
+}
+.footer{
+    height: 50px;
+    background-color: black;
+    padding: 15px;
+    
+}
+.skillpage2{
+    background-image: url(../images/anas-alshanti-feXpdV001o4-unsplash.jpg);
+    color: white;
+    font-family:'Cinzel', serif ;
+ }
+ .navbar-toggler-icon{
+    font-size: small;
+ }
+ .learning-image{
+    background-image: url(../images/brandi-redd-aJTiW00qqtI-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    align-items: center;
+    justify-content: space-around;
+    
+
+    
+    
+}
+.learning{
+    color: black;
+    font-family:'Cinzel', serif ;
+}
+
+/* media queries started */
+@media only screen and (max-width:576px){
+
+
+
+.checkpoint{
+    width: 80%;
+    text-align: center;
+}
+.second-page{
+    height: auto;
+}
+.skillpage{
+    height: auto;
+}
+.skillpage img{
+    height:auto;
+    width: 60%;
+    
+}
+.skillpage2 .icons>div{
+    width: 100%;
+}
+
+.learning{
+    height: auto;
+
+;
+
+
+}
+
+.contact{
+    font-family: 'DM Serif Display', serif;
+
+}
+.first-page{
+    text-align: center;
+}
+.learning p{
+    font-family: 'Cinzel', serif;
+    color: white;
+    
+}
+.learning>img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+.lear̥ning1{
+    font-family: 'Cinzel', serif;
+    color: white;
+    
+    
+
+}
+.contact1{
+    font-size:small;
+}
+.learning-image{
+    background-image: url(../images/clint-patterson-dYEuFB8KQJk-unsplash.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: -20px;
+}
+
+}
+
+
+
+
+
+
+
+    
+        
+        
+
+  
+    
+
+    
+
+
+
+
